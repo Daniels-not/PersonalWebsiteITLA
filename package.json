@@ -1,0 +1,14 @@
+{
+  "name": "personal-web",
+  "version": "1.0.0",
+  "description": "DANIELS PERSONAL WEB SITE ITLA INTRODUCTION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RAMY CAMPUSANO VOLQUEZ",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}

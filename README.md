@@ -3,8 +3,8 @@
 ## Instructions ✔️
 
 #### Make a personal web page with HTML and CSS with the following elements ❤️:
-- His photo
-- Name
+- Photo
+- First Name
 - Last name
 - Telephone
 - Address

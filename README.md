@@ -1,6 +1,6 @@
 # Personal Web Site ITLA 🔥 ✨ 
 
-![Personal Web Site ITLA PREVIEW](Preview)
+![Personal Web Site ITLA PREVIEW](https://github.com/Daniels-not/PersonalWebsiteITLA/blob/main/Preview.PNG)
 
 ## Instructions ✔️
 

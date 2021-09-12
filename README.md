@@ -1,4 +1,4 @@
-# Personal Website ITLA 🔥 ✨ 
+# Personal Web Site ITLA 🔥 ✨ 
 
 ## Instructions ✔️
 
